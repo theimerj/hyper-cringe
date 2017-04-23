@@ -1,0 +1,120 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "hyper-cringe@latest",
+        "scope": null,
+        "escapedName": "hyper-cringe",
+        "name": "hyper-cringe",
+        "rawSpec": "latest",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/theimer/.hyper_plugins"
+    ],
+    [
+      {
+        "raw": "hyper-cringe",
+        "scope": null,
+        "escapedName": "hyper-cringe",
+        "name": "hyper-cringe",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/theimer/.hyper_plugins/local"
+    ],
+    [
+      {
+        "raw": "hyper-cringe@latest",
+        "scope": null,
+        "escapedName": "hyper-cringe",
+        "name": "hyper-cringe",
+        "rawSpec": "latest",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/theimer/.hyper_plugins"
+    ],
+    [
+      {
+        "raw": "hyper-cringe@latest",
+        "scope": null,
+        "escapedName": "hyper-cringe",
+        "name": "hyper-cringe",
+        "rawSpec": "latest",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/theimer/.hyper_plugins"
+    ]
+  ],
+  "_from": "hyper-cringe@latest",
+  "_id": "hyper-cringe@1.0.4",
+  "_inCache": true,
+  "_location": "/hyper-cringe",
+  "_nodeVersion": "6.10.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/hyper-cringe-1.0.4.tgz_1492908544894_0.5762002067640424"
+  },
+  "_npmUser": {
+    "name": "theimer",
+    "email": "theimer@madnest.co"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "hyper-cringe@latest",
+    "scope": null,
+    "escapedName": "hyper-cringe",
+    "name": "hyper-cringe",
+    "rawSpec": "latest",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/hyper-cringe/-/hyper-cringe-1.0.4.tgz",
+  "_shasum": "b1cacded7484aa493c7d7284ad270234223e72ca",
+  "_shrinkwrap": null,
+  "_spec": "hyper-cringe@latest",
+  "_where": "/Users/theimer/.hyper_plugins",
+  "author": {
+    "name": "theimer",
+    "email": "theimer@madnest.co"
+  },
+  "dependencies": {},
+  "description": "Cringe audio track player to highlight your colleagues cringy moments",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "b1cacded7484aa493c7d7284ad270234223e72ca",
+    "tarball": "https://registry.npmjs.org/hyper-cringe/-/hyper-cringe-1.0.4.tgz"
+  },
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "hyper-plugin",
+    "hyperterm-plugin",
+    "plugin",
+    "hyper-cringe",
+    "cringe"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "theimer",
+      "email": "theimer@madnest.co"
+    }
+  ],
+  "name": "hyper-cringe",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.5"
+}
