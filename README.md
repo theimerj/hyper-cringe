@@ -12,7 +12,7 @@ If you don't have `hpm-cli`, you can install it from here [hpm-cli](https://www.
 Or edit `~/.hyper.js` and add `"hyper-cringe"` to plugins:
 ```
 plugins: [                                                                                               
-  "hyperline",                                                                                           
+  "hyper-cringe",                                                                                           
 ], 
 ```
 
